@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\andri\\source\\repos\\LAB_5.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\andri\\source\\repos\\LAB_5.0\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{582DC77E-215B-4780-823F-89ED2849215E}|LAB_5.0\\LAB_5.0.vcxproj|C:\\Users\\andri\\source\\repos\\LAB_5.0\\LAB_5.0\\LAB_5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{582DC77E-215B-4780-823F-89ED2849215E}|LAB_5.0\\LAB_5.0.vcxproj|solutionrelative:LAB_5.0\\LAB_5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -18,24 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cpp",
-              "DocumentMoniker": "C:\\Users\\andri\\source\\repos\\LAB_5.0\\UnitTest1\\UnitTest1.cpp",
-              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
-              "ToolTip": "C:\\Users\\andri\\source\\repos\\LAB_5.0\\UnitTest1\\UnitTest1.cpp",
-              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-01T09:48:56.349Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LAB_5.0.cpp",
               "DocumentMoniker": "C:\\Users\\andri\\source\\repos\\LAB_5.0\\LAB_5.0\\LAB_5.0.cpp",
               "RelativeDocumentMoniker": "LAB_5.0\\LAB_5.0.cpp",
